@@ -23,6 +23,8 @@ Non-native speakers who want to avoid common mistakes.
 Print it as a quick-reference guide.
 
 Test yourself by covering the past tense columns.
+## 📜 License
+This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
 
 Pair with flashcards (Anki/Quizlet) for spaced repetition.
 
